@@ -1,0 +1,11 @@
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.csprojAssemblyReference.cache
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.AssemblyInfoInputs.cache
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.AssemblyInfo.cs
+/Users/mo/workspace/csharp/exercises/tryandcatch/bin/Debug/netcoreapp2.2/tryandcatch.deps.json
+/Users/mo/workspace/csharp/exercises/tryandcatch/bin/Debug/netcoreapp2.2/tryandcatch.runtimeconfig.json
+/Users/mo/workspace/csharp/exercises/tryandcatch/bin/Debug/netcoreapp2.2/tryandcatch.runtimeconfig.dev.json
+/Users/mo/workspace/csharp/exercises/tryandcatch/bin/Debug/netcoreapp2.2/tryandcatch.dll
+/Users/mo/workspace/csharp/exercises/tryandcatch/bin/Debug/netcoreapp2.2/tryandcatch.pdb
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.dll
+/Users/mo/workspace/csharp/exercises/tryandcatch/obj/Debug/netcoreapp2.2/tryandcatch.pdb
